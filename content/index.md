@@ -1,6 +1,21 @@
 ---
-title: Welcome to Quartz
+title: Nidaros brukshundklubb - Docs og Wiki
 ---
 
-This is a blank Quartz installation.
+
+
+Her finner du dokumentasjon og informasjon om Nidaros brukshundklubb sine rutiner og prosesser.
+
+
+
+## Innhold
+
+- [Hvordan legge ut kurs](https://nidarosbhk.github.io/Legge-ut-kurs)
+
+
+
+
+
+
+
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
