@@ -6,20 +6,17 @@ title: Nidaros brukshundklubb - Docs og Wiki
 
 Her finner du dokumentasjon og informasjon om Nidaros brukshundklubb sine rutiner og prosesser.
 
-
-
 ## Innhold
 
-- [Hvordan legge ut kurs](https://nidarosbhk.github.io/Legge-ut-kurs)
+- [[Legge ut kurs v2]]
 - [[Prisliste]]
-- Refusjon via Letsreg
-- Refusjon via Nettbank
-- Reservere klubbhuset på Stavsøra
+- [[Refusjon i Letsreg]]
+- [[Refusjon i nettbank]]
+- [[Reservere klubbhus]]
 
 
 
 
 
 
-
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Quartz [documentation](https://quartz.jzhao.xyz).
