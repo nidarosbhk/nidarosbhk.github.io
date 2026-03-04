@@ -1,5 +1,8 @@
 Eksempel på hvordan legge ut et kurs. Kurset som legges ut her er Hverdagslydighet 15.02.2026.
+
 ## Innledning
+
+**ENDRING fra v1: Vi legger ikke ut kurs som egen post på hjemmesiden. I stedet legger vi link i kurskalenderen direkte til Letsreg.**
 
 Begynn med å åpne regnearket Kursplanlegging på fellesdisken. Her finner du oversikt over kursene som skal legges ut. I kolonnene bortover skal pris, antall timer kurset går, sted (hall, ute), antall deltakere, klokkeslett og datoer for kurskvelder stå.
 
@@ -33,44 +36,6 @@ https://drive.google.com/drive/folders/1vicnUAtHl-HydSq0uOroSPjltaIBFd_8
 
 Åpne riktig fil og kopier teksten.
 Her brukes filen `Kurstekst - Hverdagslydighet`
-
-
-## Publisering på NidarosBHK.no - Del 1
-
-Logg inn på hjemmesiden som admin, og velg "Innlegg" fra sidestolpen.
-Velg så "Legg til innlegg", enten fra sidestolpen eller knappen ved siden av overskriften.
-
-![[nbhk-nytt-innlegg.png]]
-![[Screenshot_20260131_125509.png]]
-På tittel skrives kursnavnet etterfulgt av oppstartsdato. Her:
-Hverdagslydighet 15.02.2026
-
-Endre dato og klokkeslett i henhold til det som står i regnearket.
-Skriv inn riktig instruktør, og sjekk at prisene er riktige. De kan ha blitt endret pga. prisjusteringer, som ikke nødvendigvis blir oppdatert i malene.
-
-Formatering på mellomrom og lignende er helt håpløst i skrivevinduet på hjemmesiden (Wordpress), så det er ingen vits i å prøve å få ting til å "stemme". Plutselig får du et dobbelt så stort linjeskift som resten av teksten, og sånn blir det. Eksempel:
-
-![[Screenshot_20260131_103722.png]]
-
-### Legge til stikkord
-På høyre sidestolpe vises en boks med tittelen "Stikkord". Dette er søkeord som er relevante for kurset. Skriv inn hele eller deler av ord som er relevant. Man kan legge inn ett og ett, eller flere samtidig ved å skrive inn ord skilt med komma og så trykke Legg til (ev. Enter-tasten på tastataturet).
-
-![[Screenshot_20260131_105130.png]]
-
-![[Screenshot_20260131_105039.png]]
-
-
-
-### Påmeldingsskjema
-
-Trykk på "Lagre kladd" for å lagre kladd.
-
-Nå trengs en link til påmeldingsskjema. Denne skal legges inn der det står:
-
-> **Påmelding**
-> For å melde deg på kurset, trykk her: PÅMELDING KURS
-
-Nærmere bestemt, skal den settes inn på "PÅMELDING KURS". Dermed må kurset opprettes i Letsreg.
 
 ## Opprette kurs i Letsreg
 
@@ -180,34 +145,11 @@ Trykk på lenken for å gå til arrangementet og sjekk at ting ser OK ut.
 Her har formatering ordnet seg, heldigvis.
 
 
-## Publisering på NidarosBHK.no - Del 2
+## Publisering på NidarosBHK.no Kurskalender
 
-Gå tilbake til fanen eller vinduet med hjemmesiden, der skrivevinduet for det nye Innlegget (kurset) er åpen.
+Fra mars 2026 legger vi ikke ut egen post på hjemmesiden. I stedet legger vi direktelink fra oppføringen på Kurskalender til påmeldingssiden hos Letsreg. 
 
-### Ferdigstille innlegget
-
-Bla ned til "Påmelding", og markér teksten "PÅMELDING KURS".
-![[Screenshot_20260131_113033.png]]
-Trykk på knappen for å sette inn lenke, eventuelt bruk tastekombinasjonen `control + k` på tastaturet. 
-
-Lim inn den kopierte lenken i tekstfeltet som åpner seg.
-Husk å "Bruk" ved å enten trykke Enter-tasten eller den blå pil-knappen ved siden av tekstfeltet.
-![[Screenshot_20260131_113208.png]]
-
-Sjekk over at teksten er riktig.
-
-Kurset er nå klart for å legges ut. Trykk på den blå knappen "Publiser" på høyre side.
-
-Trykk på lenken under kurstittelen for å gå til den publiserte kurssiden
-
-![[Screenshot_20260131_113435.png]]
-
-Sjekk at ting ser riktig ut.
-Marker teksten i adressefeltet og kopier den.
-
-
-![[Screenshot_20260131_113552.png]]
-Trykk deretter på "Kurskalender" i høyre sidestolpe.
+Instruksen for å oppdatere Kurskalender er lik uansett, eneste forskjell er hvilken link som limes inn.
 
 ### Legge inn i kurskalender
 
