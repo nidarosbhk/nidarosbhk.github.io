@@ -1,9 +1,6 @@
 # Nidaros brukshundklubb Docs og Wiki
 
-
-
-
-
+Dokumentasjon og wiki for prosedyrene rundt kurskomitéens arbeid.
 
 
 ## This project is built using Quartz v4
